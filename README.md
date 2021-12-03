@@ -21,3 +21,6 @@ python proc1.py
 ```bash:bash
 python proc2.py
 ```
+
+## Detailed Explanation(Japanese)
+・[Blog](https://atchicken.com/shared_memory/)
